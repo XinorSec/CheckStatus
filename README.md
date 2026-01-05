@@ -2,7 +2,7 @@
 
 A simple Python tool to monitor the status of a specific port on a target host in real-time.
 
-![Port Monitor Screenshot](https://imgur.com/a/Nnp5vJT)
+![Port Monitor Screenshot](https://postimg.cc/SJH8p3Tn)
 
 *Created by Xinor.Sec*
 
@@ -75,3 +75,4 @@ Press `Ctrl+C` to stop the monitoring process.
 
 
 This project is free to use and modify.
+
